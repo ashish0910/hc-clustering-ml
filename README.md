@@ -6,4 +6,5 @@ Steps to run :
 1.download the repo and open the working directory in terminal <br>
 2.open the database file and change the database as per the requirements<br>
 3.run "python script.py" in terminal<br>
+4.Enjoy ! <br>
  
